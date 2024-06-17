@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="golden_gate_text">Golden Gate Bridge - San Francisco</string>
+    <string name="capitol_text">United States Capitol</string>
+    <string name="liberty_island_text">Liberty Island overlooking Manhattan Skyline</string>
+
+    <string name="golden_gate_artwork_name">Stella Levi</string>
+    <string name="capitol_artwork_name">Dr. Nadig</string>
+    <string name="liberty_island_artwork_name">Shutter G.S.</string>
+
+    <string name="golden_gate_year">2016</string>
+    <string name="capitol_year">2010</string>
+    <string name="liberty_island_year">2015</string>
+
+</resources>
